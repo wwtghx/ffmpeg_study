@@ -1,6 +1,5 @@
 # ffmpeg_study
 
-
 1. Generate SSH, and save in github
 ssh-keygen -t rsa -C "wwtg_hx@163.com"
 
